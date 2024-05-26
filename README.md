@@ -1,2 +1,3 @@
 # Clone
-Netflix Clone
+Just a Responsive frontend Netflix clone
+
